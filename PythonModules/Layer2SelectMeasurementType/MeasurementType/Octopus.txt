@@ -1,0 +1,10 @@
+WG_losses
+MMI losses
+GC losses
+WG bend losses
+Open clad reflection losses
+WG mode rotators
+Shallow etch WG taper losses
+Frequency splitters
+Tapers
+Evanescent couplers
